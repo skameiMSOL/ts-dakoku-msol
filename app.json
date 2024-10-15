@@ -26,7 +26,7 @@
   },
   "addons": [
     {
-      "plan": "heroku-redis:hobby-dev"
+      "plan": "heroku-redis:mini"
     }
   ],
   "image": "heroku/go:1.9.4",
